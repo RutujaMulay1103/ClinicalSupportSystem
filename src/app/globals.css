@@ -1,0 +1,118 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary: rgba(59, 130, 246, .5);
+  --accent: #8fa9e9;
+  --light-bg: #e0e5f1;
+  --dark-bg: #272932;
+  --white: #ffffff;
+  --dark-gray: #212121;
+  --text-dark: #333333;
+  --text-light: #e0e5f1;
+}
+
+.white-theme {
+  --background: var(--light-bg);
+  --component-bg: var(--white);
+  --text: var(--text-dark);
+  --accent: var(--accent);
+}
+
+.dark-theme {
+  --background: var(--dark-bg);
+  --component-bg: var(--dark-gray);
+  --text: var(--text-light);
+  --accent: var(--accent);
+}
+
+body {
+  background-color: var(--background);
+  color: var(--text);
+}
+
+/* Neobrutalism Components */
+.neo-container {
+  @apply w-full max-w-6xl mx-auto px-4 sm:px-6 lg:px-8;
+}
+
+.neo-card {
+  background-color: var(--component-bg);
+  border: 2px solid black;
+  border-radius: 12px;
+  box-shadow: 4px 4px 0px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s ease;
+  @apply p-4 md:p-6;
+}
+
+.neo-card:hover {
+  box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.1);
+}
+
+.neo-button {
+  background-color: var(--accent);
+  border: 2px solid black;
+  border-radius: 8px;
+  box-shadow: 4px 4px 0px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+  @apply px-4 py-2 font-bold;
+}
+
+.neo-button:hover {
+  box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.1);
+  transform: translate(2px, 2px);
+}
+
+.neo-input {
+  background-color: var(--component-bg);
+  border: 2px solid black;
+  border-radius: 8px;
+  @apply px-4 py-2 w-full;
+}
+
+.neo-input:focus {
+  border-color: var(--accent);
+  outline: none;
+}
+
+.neo-dropdown {
+  background-color: var(--component-bg);
+  border: 2px solid black;
+  border-radius: 8px;
+  @apply px-4 py-2 w-full;
+}
+
+.neo-textarea {
+  background-color: var(--component-bg);
+  border: 2px solid black;
+  border-radius: 8px;
+  min-height: 100px;
+  @apply px-4 py-2 w-full;
+}
+
+.neo-textarea:focus {
+  border-color: var(--accent);
+  outline: none;
+}
+
+.neo-header {
+  background-color: var(--component-bg);
+  border-bottom: 2px solid black;
+  @apply py-4;
+}
+
+.neo-footer {
+  background-color: var(--component-bg);
+  border-top: 2px solid black;
+  @apply py-4 mt-8;
+}
+
+/* Utility Classes */
+.text-accent {
+  color: var(--accent);
+}
+
+.bg-accent {
+  background-color: var(--accent);
+} 

@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "age": 67,
+    "gender": "Male",
+    "bloodGroup": "A+",
+    "medicalHistory": [
+      "Hypertension",
+      "Type 2 Diabetes"
+    ],
+    "medications": [
+      "Metformin",
+      "Lisinopril"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "age": 52,
+    "gender": "Female",
+    "bloodGroup": "O-",
+    "medicalHistory": [
+      "Asthma",
+      "Osteoarthritis"
+    ],
+    "medications": [
+      "Albuterol",
+      "Acetaminophen"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Robert Johnson",
+    "age": 75,
+    "gender": "Male",
+    "bloodGroup": "B+",
+    "medicalHistory": [
+      "Coronary Artery Disease",
+      "COPD"
+    ],
+    "medications": [
+      "Aspirin",
+      "Atorvastatin",
+      "Tiotropium"
+    ]
+  },
+  {
+    "name": "Alan Scott",
+    "age": 45,
+    "gender": "Male",
+    "bloodGroup": "AB+",
+    "medicalHistory": [
+      "Hypertension"
+    ],
+    "medications": [
+      "Aspirin"
+    ],
+    "id": 4
+  },
+  {
+    "id": 5,
+    "name": "Ramesh",
+    "age": 30,
+    "gender": "Male",
+    "bloodGroup": "B-",
+    "medicalHistory": [
+      ""
+    ],
+    "medications": [
+      ""
+    ]
+  },
+  {
+    "name": "Javis",
+    "age": 25,
+    "gender": "Male",
+    "bloodGroup": "O+",
+    "medicalHistory": [
+      "Blood Pressure"
+    ],
+    "medications": [
+      "Paracetamol"
+    ],
+    "id": 6
+  },
+  {
+    "id": 7,
+    "name": "Rahul",
+    "age": 33,
+    "gender": "Male",
+    "bloodGroup": "AB-",
+    "medicalHistory": [
+      "Type 1 Diabetes"
+    ],
+    "medications": [
+      "Ibuprofen"
+    ]
+  }
+]

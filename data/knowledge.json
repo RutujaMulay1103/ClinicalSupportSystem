@@ -1,0 +1,98 @@
+[
+  {
+    "text": "Chest pain with radiation to the left arm, shortness of breath, and nausea suggests Acute Coronary Syndrome (ACS). Immediate ECG and cardiac biomarkers are recommended.",
+    "source": "American Heart Association Guidelines"
+  },
+  {
+    "text": "For patients with Type 2 Diabetes, first-line therapy typically includes Metformin unless contraindicated. Target HbA1c should be <7% for most patients.",
+    "source": "American Diabetes Association Guidelines"
+  },
+  {
+    "text": "Hypertension in elderly patients should be treated gradually to avoid orthostatic hypotension. Target blood pressure is typically <140/90 mmHg for most patients.",
+    "source": "JNC 8 Hypertension Guidelines"
+  },
+  {
+    "text": "COPD exacerbations are often treated with bronchodilators, corticosteroids, and antibiotics if bacterial infection is suspected. Oxygen therapy should maintain SpO2 88-92%.",
+    "source": "GOLD COPD Guidelines"
+  },
+  {
+    "text": "Patients with a history of stroke should be on antiplatelet therapy (aspirin or clopidogrel) and a statin for secondary prevention. Blood pressure control is essential.",
+    "source": "American Stroke Association Guidelines"
+  },
+  {
+    "text": "For osteoarthritis, initial management includes weight loss, exercise, acetaminophen, and NSAIDs. Consider physical therapy and intra-articular corticosteroid injections for refractory cases.",
+    "source": "American College of Rheumatology Guidelines"
+  },
+  {
+    "text": "Asthma management follows a stepwise approach. Short-acting beta-agonists for rescue, with inhaled corticosteroids as the mainstay of controller therapy.",
+    "source": "GINA Asthma Guidelines"
+  },
+  {
+    "text": "Patients with Atrial Fibrillation should be assessed for stroke risk using the CHA2DS2-VASc score. Anticoagulation is typically recommended for scores ≥2.",
+    "source": "AHA/ACC/HRS Atrial Fibrillation Guidelines"
+  },
+  {
+    "text": "Metformin is contraindicated in patients with severe renal impairment (eGFR <30 mL/min/1.73m²) and should be used with caution in patients with moderate renal impairment (eGFR 30-45 mL/min/1.73m²).",
+    "source": "FDA Prescribing Information for Metformin"
+  },
+  {
+    "text": "Lisinopril, an ACE inhibitor, is effective for hypertension management but may cause a persistent dry cough in approximately 5-20% of patients. If cough develops, consider switching to an ARB.",
+    "source": "American College of Cardiology Hypertension Guidelines"
+  },
+  {
+    "text": "Atorvastatin dosing for secondary prevention of cardiovascular disease typically ranges from 40-80mg daily. Monitor for muscle pain and liver function abnormalities.",
+    "source": "American College of Cardiology/American Heart Association Guidelines"
+  },
+  {
+    "text": "In patients with COPD, Tiotropium (Spiriva) improves lung function, quality of life, and reduces exacerbations. It should be used as maintenance therapy, not for acute symptom relief.",
+    "source": "American Thoracic Society Guidelines"
+  },
+  {
+    "text": "Albuterol should be used as needed for symptom relief in asthma. Overuse (>2 days/week) indicates poor control and should trigger reassessment of controller medication.",
+    "source": "National Asthma Education and Prevention Program (NAEPP)"
+  },
+  {
+    "text": "For geriatric patients with Type 2 Diabetes, less stringent glycemic goals (HbA1c 7.5-8.0%) may be appropriate, especially in those with multiple comorbidities or limited life expectancy.",
+    "source": "American Diabetes Association Guidelines for Older Adults"
+  },
+  {
+    "text": "Coronary Artery Disease management includes lifestyle modification (diet, exercise, smoking cessation), antiplatelet therapy, statins, beta-blockers, and ACE inhibitors or ARBs as appropriate.",
+    "source": "American College of Cardiology Foundation/American Heart Association Guidelines"
+  },
+  {
+    "text": "Beta-blockers may exacerbate symptoms in patients with reactive airway diseases like asthma or COPD. If needed, cardioselective beta-blockers (e.g., metoprolol) at low doses with careful monitoring are preferred.",
+    "source": "American Heart Association Guidelines"
+  },
+  {
+    "text": "Acetaminophen for osteoarthritis should not exceed 3000mg/day in older adults or those with liver impairment. Regular monitoring of liver function is recommended with long-term use.",
+    "source": "American Geriatrics Society Beers Criteria"
+  },
+  {
+    "text": "Patients with a combination of hypertension and diabetes are at increased risk for cardiovascular disease. Target blood pressure should be <130/80 mmHg if tolerated.",
+    "source": "American Diabetes Association and American College of Cardiology Joint Guidelines"
+  },
+  {
+    "text": "Regular physical activity of at least 150 minutes per week of moderate-intensity aerobic exercise is recommended for patients with stable coronary artery disease, hypertension, or diabetes.",
+    "source": "American College of Sports Medicine and American Heart Association"
+  },
+  {
+    "text": "For patients with heart failure with reduced ejection fraction (HFrEF), guideline-directed medical therapy includes ACE inhibitors/ARBs/ARNI, beta-blockers, MRAs, and SGLT2 inhibitors.",
+    "source": "American College of Cardiology/American Heart Association Heart Failure Guidelines"
+  },
+  {
+    "text": "Headaches can be classified as primary (migraine, tension, cluster) or secondary (due to underlying causes like infection, trauma, or vascular disorders). Thorough evaluation is needed when headaches are sudden, severe, or accompanied by neurological symptoms.",
+    "source": "American Academy of Neurology Guidelines"
+  },
+  {
+    "text": "For migraine treatment, first-line acute therapies include NSAIDs, acetaminophen, and triptans. Preventive therapy should be considered when migraines significantly impact quality of life or occur more than 4 days per month.",
+    "source": "American Headache Society Guidelines"
+  },
+  {
+    "text": "Medication overuse headache (MOH) can occur with frequent use of headache medications (>10-15 days/month). Treatment involves discontinuation of the overused medication and may require preventive therapy during withdrawal.",
+    "source": "International Headache Society Guidelines"
+  },
+  {
+    "text": "Beta-blockers (e.g., propranolol, metoprolol) are effective first-line preventive medications for migraine. They are contraindicated in patients with asthma, COPD, heart block, or severe bradycardia.",
+    "source": "American Academy of Neurology Guidelines"
+  }
+] 
